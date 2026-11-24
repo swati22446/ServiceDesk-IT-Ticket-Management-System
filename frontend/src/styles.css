@@ -1,0 +1,8 @@
+body { background: #f4f6f9; }
+.card { border: 0; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.sortable { cursor: pointer; user-select: none; }
+.toast-area { position: fixed; top: 70px; right: 16px; z-index: 2000; width: 340px; }
+.pre-wrap { white-space: pre-wrap; }
+.timeline { border-left: 2px solid #dee2e6; padding-left: 14px; }
+.timeline li { margin-bottom: .6rem; position: relative; }
+.timeline li::before { content: ""; position: absolute; left: -20px; top: 7px; width: 10px; height: 10px; border-radius: 50%; background: #0d6efd; }

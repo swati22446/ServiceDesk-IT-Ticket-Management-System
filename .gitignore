@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+coverage/
+backend/ServiceDesk.Api/logs/
+backend/ServiceDesk.Api/Uploads/
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+# Secrets
+.env
